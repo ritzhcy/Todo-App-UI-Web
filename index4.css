@@ -1,0 +1,134 @@
+body
+{
+    overflow: hidden;
+}
+.heading
+{
+    position: relative;
+    left: 255px;
+    top: 50px;
+}
+.a 
+{
+    display: inline-block;
+    margin: 0px 0px 0px 40px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a1
+{
+    display: inline-block;
+    width: 180px;
+}
+#backbutton
+{
+    color: red;
+    font-size: 34px;
+    position: relative;
+    top: 80px;
+    left: 625px;
+}
+.back
+{
+    color: rgb(80, 78, 78);
+    font-size: 25px;
+    font-family:  Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 665px;
+    top: 20px;
+}
+.box
+{
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 325px;
+    width: 280px;
+    text-align: center;
+    position: relative;
+    top: 45px;
+    left: 535px;
+    box-shadow: 7px 7px 8px 0px rgb(214, 199, 199);
+}
+hr
+{
+    margin-left: 50px;
+}
+.b 
+{
+    color: red;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c
+{
+    color: red;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+label
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#addbutton
+{
+    color: red;
+    font-size: 34px;
+    position: relative;
+    top: 130px;
+    left: 43px;
+}
+.page2
+{
+    filter: blur(5px);
+    z-index: -1;
+}
+.create-item
+{
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 110px;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 475px;
+    bottom: 270px;
+    padding-top: 30px;
+    background-color: white;
+    padding-bottom: 30px;
+    box-shadow: 7px 7px 8px 0px rgb(214, 199, 199);
+}
+.new2
+{
+    color: red;
+    position: relative;
+    left: 150px;
+}
+#test2
+{
+    color: red;
+    position: relative;
+    left: 82px;
+    box-shadow: 3px 3px 8px rgb(214, 199, 199);
+    border: 1px solid red;
+    border-radius: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.adding2
+{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    border: red;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    position: relative;
+    left: 169px;
+}

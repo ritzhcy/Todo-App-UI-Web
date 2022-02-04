@@ -1,0 +1,80 @@
+body {
+    overflow: hidden; 
+  }
+.heading
+{
+    position: relative;
+    left: 255px;
+    top: 50px;
+}
+.a 
+{
+    display: inline-block;
+    margin: 0px 0px 0px 40px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a1
+{
+    display: inline-block;
+    width: 180px;
+}
+#backbutton
+{
+    color: red;
+    font-size: 34px;
+    position: relative;
+    top: 80px;
+    left: 625px;
+}
+.back
+{
+    color: rgb(80, 78, 78);
+    font-size: 25px;
+    font-family:  Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 665px;
+    top: 20px;
+}
+.box
+{
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 325px;
+    width: 280px;
+    text-align: center;
+    position: relative;
+    top: 45px;
+    left: 535px;
+    box-shadow: 7px 7px 8px 0px rgb(214, 199, 199);
+}
+hr
+{
+    margin-left: 50px;
+}
+.b 
+{
+    color: red;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c
+{
+    color: red;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+label
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#addbutton
+{
+    color: red;
+    font-size: 34px;
+    position: relative;
+    top: 130px;
+    left: 43px;
+}

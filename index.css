@@ -1,0 +1,114 @@
+
+body {
+    overflow: hidden; 
+  }.task
+{
+    position: relative;
+    top: 80px;
+    left: 255px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.lists
+{
+    font-size: 50px;
+    font-weight: normal;
+    font-family: 'Raleway';
+    color: rgb(61, 60, 60);
+}
+.material-icons
+{
+    color: red;
+    position: relative;
+    left: 690px;
+    top: 84px;
+}
+.add-list
+{
+    color: black;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Raleway';
+    position: relative;
+    top: 10px;
+    left: 995px;
+}
+.box1
+{
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 300px;
+    width: 230px;
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Raleway';
+    position: relative;
+    top: 40px;
+    left: 230px;
+    padding-top: 20px;
+    padding-left: 20px;
+    box-shadow: 7px 7px 8px 0px rgb(214, 199, 199);
+}
+.box2
+{
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 300px;
+    width: 230px;
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Raleway';
+    position: relative;
+    bottom: 282px;
+    left: 557px;
+    padding-top: 20px;
+    padding-left: 20px;
+    box-shadow: 7px 7px 8px 0px rgb(214, 199, 199);
+}
+.box3
+{
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 300px;
+    width: 230px;
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Raleway';
+    position: relative;
+    bottom: 605px;
+    left: 880px;
+    padding-top: 20px;
+    padding-left: 20px;
+    box-shadow: 7px 7px 8px 0px rgb(214, 199, 199);
+}
+hr
+{
+    margin-left: 40px;
+}
+.a 
+{
+    font-size: 23px;
+    position: relative;
+    left: 45px;
+}
+.b 
+{
+    font-size: 20px;
+    position: relative;
+    left: 40px;
+}
+input
+{
+    position: relative;
+    left: 5px;
+}
+label
+{
+    color: black;
+    font-size: 18px;
+    position: relative;
+    left: 15px;
+}
